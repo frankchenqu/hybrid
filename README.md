@@ -3,7 +3,7 @@
 This repository provides a deep learning-based framework for predicting drug–target interactions (DTIs), built upon our previously proposed AMMVF model. 
 It allows for training, evaluation, and visualization of DTI prediction.
 
-## Requirements:
+## Requirements
 
 Python ≥ 3.8
 PyTorch ≥ 1.11
