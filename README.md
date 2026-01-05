@@ -13,7 +13,7 @@ It allows for training, evaluation, and visualization of DTI prediction.
 * pandas ≥ 1.3.5
 
 ## Project Structure
-├── train/
+* ├── train/
 * │   ├── train_featurizer.py
 * │   ├── model.py
 * │   └── train_main.py
