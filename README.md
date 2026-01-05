@@ -38,3 +38,8 @@ Note: To visualize a specific test sample (e.g., Nirmatrelvir–6LU7 at index 1)
 
 ## Contact
 For any questions or feedback, please contact the developer at chenqu@vip.126.com for further information.
+
+## Authors
+This code was originally created by Lu Wang and Jialong Gao. Gao is currently a master student at Zhejiang University of Science and Technology under joint supervision of Dr. Qu Chen and Prof. Juan Huang.
+
+This code serves as the Supporting Information for the manuscript entitled "An Interpretable Deep Learning and Molecular Docking Framework for Repurposing Existing Drugs as Inhibitors of SARS-CoV-2 Main Protease, Molecules, 2025, 30(16): 3409" and can be downloaded for free.
