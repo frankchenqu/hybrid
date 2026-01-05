@@ -5,21 +5,21 @@ It allows for training, evaluation, and visualization of DTI prediction.
 
 ## Requirements
 
-Python ≥ 3.8
-PyTorch ≥ 1.11
-CUDA ≥ 11.3
-RDKit ≥ 2020.09.1
-NumPy ≥ 1.21.5
-pandas ≥ 1.3.5
+* Python ≥ 3.8
+* PyTorch ≥ 1.11
+* CUDA ≥ 11.3
+* RDKit ≥ 2020.09.1
+* NumPy ≥ 1.21.5
+* pandas ≥ 1.3.5
 
 ## Project Structure
 ├── train/
-│   ├── train_featurizer.py
-│   ├── model.py
-│   └── train_main.py
-├── attention/
-│   ├── main_visualization.py
-│   └── model_attention.py
+* │   ├── train_featurizer.py
+* │   ├── model.py
+* │   └── train_main.py
+* ├── attention/
+* │   ├── main_visualization.py
+* │   └── model_attention.py
 
 ## Usage
 Part 1: Model Training (train/)
